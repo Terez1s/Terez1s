@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit more about me and my work:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Exchange app
+- 🔭 I’m currently working on coding..
 - 🌱 I’m currently learning Technology
 - 👯 I’m looking to collaborate on Area
 - 🤔 I’m looking for help with  Technology
