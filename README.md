@@ -1,6 +1,6 @@
 # Hi there, I'm Terez 👋
 
-![Profile views](https://gpvc.arturio.dev/Terez1s) 
+![Profile views]([https://gpvc.arturio.dev/Terez1s](https://camo.githubusercontent.com/5a3e20d114c36943cf693393909370980195ef5dfe0f1e1a3d69750f55222e64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736162656e656826636f6c6f723d677265656e)) 
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit more about me and my work:
 
